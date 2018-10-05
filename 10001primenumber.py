@@ -8,7 +8,7 @@ def primenumber(number):
 		return number
 i=1	
 j=1
-while(i<10001):
+while(i<10002):
 	j=j+1
 	a=primenumber(j)
 	if a==1:
